@@ -12,9 +12,9 @@
 ## 📫 Get in Touch
 
 - ✉️ Email me: [luke@watneylabs.com](mailto:luke@watneylabs.com)  
-- 🌐 More information: [Pitch deck](https://pitch.com/v/watney-7ai63p)  
+- 🌐 More information: [Deck](https://pitch.com/v/watney-7ai63p)  
 - 📅 Book a 30 min meeting: [Calendly](https://calendly.com/luke-watneylabs/30min)  
-- 🚀 Trial the platform: [Sign up](https://app.watneylabs.com) (use code `potatoes`)
+- 🚀 Trial the platform: [Sign up](https://app.watneylabs.com/ua/register-user) (use code `potatoes`)
 
 ---
 
