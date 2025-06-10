@@ -1,24 +1,22 @@
 <p align="center">
-  <img src="./watney_logo.png" alt="Watney Labs Logo" width="120" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./IMG_7186.jpeg" alt="Luke @ Watney Labs" width="120" style="border-radius: 50%;" />
+  <img src="./IMG_7186.jpeg" width="150" alt="Luke @ Watney Labs" style="border-radius:50%;" />
 </p>
 
-# Luke ● Founder @ Watney Labs
+<h1 align="center">Luke</h1>
+<h3 align="center">Founder @ <img src="./watney_logo.png" width="100" alt="Watney Labs logo" /></h3>
+<p align="center"><em>Plant Science Data Management</em></p>
 
-**Plant Science Data Management**  
-
----
-
-## 📫 Get in Touch
-
-- ✉️ Email me: [luke@watneylabs.com](mailto:luke@watneylabs.com)  
-- 🌐 More information: [Pitch deck](https://pitch.com/v/watney-7ai63p)  
-- 📅 Book a 30 min meeting: [Calendly](https://calendly.com/luke-watneylabs/30min)  
-- 🚀 Trial the platform: [Sign up](https://app.watneylabs.com) (use code `potatoes`)
-
----
-
-<p align="center">  
-  <a href="https://app.watneylabs.com"><img src="https://img.shields.io/badge/Try%20Watney-Live%20Demo-brightgreen" alt="Try Watney Demo" /></a>
+<p align="center">
+  <a href="mailto:luke@watneylabs.com">
+    <img alt="Email" src="https://img.shields.io/badge/✉️%20Email-luke@watneylabs.com-blue?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://pitch.com/v/watney-7ai63p">
+    <img alt="Pitch Deck" src="https://img.shields.io/badge/📈%20Pitch%20Deck-view-green?style=flat-square" />
+  </a>
+  <a href="https://calendly.com/luke-watneylabs/30min">
+    <img alt="Book a Meeting" src="https://img.shields.io/badge/📅%20Book%20%2330min-calendly-orange?style=flat-square&logo=calendly" />
+  </a>
+  <a href="https://app.watneylabs.com">
+    <img alt="Try Watney" src="https://img.shields.io/badge/🚀%20Try%20Watney-%60potatoes%60-purple?style=flat-square" />
+  </a>
 </p>
