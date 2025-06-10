@@ -1,14 +1,15 @@
-<p align="center" style="line-height:0;">
+<p align="center">
   <img
     src="./watney_logo.png"
     alt="Watney Labs Logo"
-    width="48"
+    width="64"
+    style="border:2px solid #e1e4e8; border-radius:8px; margin-right:16px; vertical-align:middle;"
   />
   <img
     src="./IMG_7186.jpeg"
     alt="Luke Headshot"
-    width="48"
-    style="border-radius:50%; margin-left:8px;"
+    width="64"
+    style="border:2px solid #e1e4e8; border-radius:50%; vertical-align:middle;"
   />
 </p>
 
