@@ -1,10 +1,20 @@
-<p align="center">
-  <img src="./watney_logo.png" alt="Watney Labs Logo" width="80" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./IMG_7186.jpeg" alt="Luke Headshot" width="80" style="border-radius:50%;" />
-</p>
+<div align="center">
+  <img
+    src="./watney_logo.png"
+    alt="Watney Labs Logo"
+    width="64"
+    style="vertical-align: middle;"
+  />
+  <img
+    src="./IMG_7186.jpeg"
+    alt="Luke Headshot"
+    width="64"
+    style="border-radius:50%; vertical-align: middle; margin-left: 12px;"
+  />
+</div>
 
-# Luke  
+# Luke
+
 **Founder @ Watney Labs**  
 *Plant Science Data Management*
 
